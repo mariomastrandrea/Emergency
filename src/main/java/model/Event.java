@@ -1,5 +1,6 @@
 package model;
 
-public class Event {
+public class Event 
+{
 
 }
